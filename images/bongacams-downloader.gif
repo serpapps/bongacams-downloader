@@ -1,0 +1,53 @@
+<!-- Animated SVG Placeholder for Bongacams Downloader GIF -->
+<svg width="960" height="540" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg-anim" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ff6b6b;stop-opacity:1">
+        <animate attributeName="stop-color" values="#ff6b6b;#4ecdc4;#ff6b6b" dur="3s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" style="stop-color:#4ecdc4;stop-opacity:1">
+        <animate attributeName="stop-color" values="#4ecdc4;#ff6b6b;#4ecdc4" dur="3s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#bg-anim)"/>
+  
+  <!-- Title with animation -->
+  <text x="480" y="200" font-family="Arial, sans-serif" font-size="48" font-weight="bold" text-anchor="middle" fill="#333">
+    BONGACAMS
+    <animate attributeName="opacity" values="1;0.5;1" dur="2s" repeatCount="indefinite"/>
+  </text>
+  <text x="480" y="260" font-family="Arial, sans-serif" font-size="48" font-weight="bold" text-anchor="middle" fill="#ffffff">
+    DOWNLOADER
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="2s" repeatCount="indefinite"/>
+  </text>
+  
+  <!-- Animated download icon -->
+  <g transform="translate(450, 300)">
+    <rect x="0" y="20" width="60" height="40" fill="#4ecdc4" rx="5">
+      <animate attributeName="fill" values="#4ecdc4;#ff6b6b;#4ecdc4" dur="2s" repeatCount="indefinite"/>
+    </rect>
+    <polygon points="30,0 15,20 25,20 25,35 35,35 35,20 45,20" fill="#333">
+      <animateTransform attributeName="transform" type="translate" values="0,0; 0,5; 0,0" dur="1s" repeatCount="indefinite"/>
+    </polygon>
+  </g>
+  
+  <!-- Animated stars -->
+  <g fill="#ffd700">
+    <path d="M400,380 L405,390 L415,390 L407.5,397.5 L412.5,407.5 L400,402.5 L387.5,407.5 L392.5,397.5 L385,390 L395,390 Z">
+      <animate attributeName="opacity" values="1;0.3;1" dur="1.5s" begin="0s" repeatCount="indefinite"/>
+    </path>
+    <path d="M425,380 L430,390 L440,390 L432.5,397.5 L437.5,407.5 L425,402.5 L412.5,407.5 L417.5,397.5 L410,390 L420,390 Z">
+      <animate attributeName="opacity" values="1;0.3;1" dur="1.5s" begin="0.3s" repeatCount="indefinite"/>
+    </path>
+    <path d="M450,380 L455,390 L465,390 L457.5,397.5 L462.5,407.5 L450,402.5 L437.5,407.5 L442.5,397.5 L435,390 L445,390 Z">
+      <animate attributeName="opacity" values="1;0.3;1" dur="1.5s" begin="0.6s" repeatCount="indefinite"/>
+    </path>
+    <path d="M475,380 L480,390 L490,390 L482.5,397.5 L487.5,407.5 L475,402.5 L462.5,407.5 L467.5,397.5 L460,390 L470,390 Z">
+      <animate attributeName="opacity" values="1;0.3;1" dur="1.5s" begin="0.9s" repeatCount="indefinite"/>
+    </path>
+    <path d="M500,380 L505,390 L515,390 L507.5,397.5 L512.5,407.5 L500,402.5 L487.5,407.5 L492.5,397.5 L485,390 L495,390 Z">
+      <animate attributeName="opacity" values="1;0.3;1" dur="1.5s" begin="1.2s" repeatCount="indefinite"/>
+    </path>
+  </g>
+</svg>
