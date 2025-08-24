@@ -2,20 +2,17 @@
   "id": 8,
   "created_at": "2025-01-23T00:00:00Z",
   "seo_title": "Bongacams Downloader - Free Content Download Tool",
-  "seo_description": "https://serp.ly/bongacams-downloader",
+  "seo_description": null,
   "product_page_url": "https://store.serp.co/product-details/product/bongacams-downloader",
   "purchase_url": "https://serp.ly/bongacams-downloader",
   "store_product_id": null,
   "name": "Bongacams Downloader",
   "tagline": "Record and download Bongacams live streams and private shows automatically",
-  "featured_image": "images/bongacams-downloader.jpg",
-  "featured_image_gif": "images/bongacams-downloader.gif",
+  "featured_image": "https://raw.githubusercontent.com/serpapps/bongacams-downloader/assets/images/bongacams-downloader.jpg",
+  "featured_image_gif": "https://raw.githubusercontent.com/serpapps/bongacams-downloader/assets/images/bongacams-downloader.gif",
   "github_repo_url": "https://github.com/serpapps/bongacams-downloader",
   "github_repo_tags": [
-    "bongacams-downloader",
-    "downloader",
-    "automation",
-    "tools"
+    "bongacams-downloader"
   ],
   "github_gist_url": null,
   "features": [
@@ -56,13 +53,11 @@
     "Streamlink",
     "WebSocket"
   ],
-  "serpco_product_page_link": "https://store.serp.co/product-details/product/bongacams-downloader",
-  "serpai_product_page_link": null,
+  "serpco_product_page_link": "https://serp.co/products/bongacams-downloader/reviews/",
+  "serpai_product_page_link": "https://serp.ai/products/bongacams-downloader/reviews/",
   "file_formats": null,
   "categories": [
-    "Adult Streaming",
-    "Live Recording",
-    "Cam Tools"
+    "adult streaming site"
   ],
   "extraction_targets": null,
   "content_medium": null,
@@ -73,21 +68,18 @@
     "devinschumacher"
   ],
   "funding_links_liberapay": [
-    "serply"
+    "devinschumacher"
   ],
   "funding_links_opencollective": [
-    "serply"
+    "devinschumacher"
   ],
   "funding_links_custom": [
     "https://serpapps.github.io/bongacams-downloader",
     "https://devinschumacher.com/bongacams-downloader",
-    "https://serp.co/products/bongacams-downloader/reviews/"
+    "https://serp.co/products/bongacams-downloader/",
+    "https://github.com/sponsors/devinschumacher"
   ],
   "keywords": [
-    "bongacams",
-    "downloader",
-    "live-streaming",
-    "recording",
-    "cam"
+    "bongacams downloader"
   ]
 }
