@@ -56,3 +56,9 @@ Bongacams Downloader is an automated tool for recording and downloading live str
 
 - 📁 Repository [here](https://github.com/serpapps/bongacams-downloader)
 
+<details>
+<summary>Keywords</summary>
+
+bongacams downloader
+</details>
+
