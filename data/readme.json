@@ -1,0 +1,85 @@
+{
+  "id": 8,
+  "created_at": "2025-01-23T00:00:00Z",
+  "seo_title": "Bongacams Downloader - Free Content Download Tool",
+  "seo_description": null,
+  "product_page_url": "https://store.serp.co/product-details/product/bongacams-downloader",
+  "purchase_url": "https://serp.ly/bongacams-downloader",
+  "store_product_id": null,
+  "name": "Bongacams Downloader",
+  "tagline": "Record and download Bongacams live streams and private shows automatically",
+  "featured_image": "https://raw.githubusercontent.com/serpapps/bongacams-downloader/assets/images/bongacams-downloader.jpg",
+  "featured_image_gif": "https://raw.githubusercontent.com/serpapps/bongacams-downloader/assets/images/bongacams-downloader.gif",
+  "github_repo_url": "https://github.com/serpapps/bongacams-downloader",
+  "github_repo_tags": [
+    "bongacams-downloader"
+  ],
+  "github_gist_url": null,
+  "features": [
+    "Live stream recording",
+    "Scheduled recordings",
+    "Auto-restart on disconnect",
+    "Private show capture",
+    "Multi-model support",
+    "Cloud storage integration"
+  ],
+  "chrome_web_store_url": null,
+  "description": "Bongacams Downloader is an automated tool for recording and downloading live streams and private shows from Bongacams. Features include scheduled recordings, auto-restart capabilities, and cloud storage integration for reliable content capture.",
+  "product_video": null,
+  "related_videos": null,
+  "changelog": null,
+  "version_number": 1,
+  "updated_at": "2025-01-23T00:00:00Z",
+  "troubleshooting_instructions": [],
+  "installation_instructions": "1. Clone the repository: git clone https://github.com/serpapps/bongacams-downloader\n2. Install dependencies\n3. Configure settings\n4. Run the application",
+  "usage_instructions": [
+    "Open the application",
+    "Configure your Bongacams credentials",
+    "Select models or shows to record",
+    "Set recording schedule if needed",
+    "Start monitoring and recording",
+    "Files will be saved to your specified directory"
+  ],
+  "faqs": null,
+  "supported_operating_systems": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "status": "planned",
+  "technologies": [
+    "Python",
+    "FFmpeg",
+    "Streamlink",
+    "WebSocket"
+  ],
+  "serpco_product_page_link": "https://serp.co/products/bongacams-downloader/reviews/",
+  "serpai_product_page_link": "https://serp.ai/products/bongacams-downloader/reviews/",
+  "file_formats": null,
+  "categories": [
+    "adult streaming site"
+  ],
+  "extraction_targets": null,
+  "content_medium": null,
+  "discovery_source": null,
+  "related_articles": null,
+  "related_gists": null,
+  "funding_links_github": [
+    "devinschumacher"
+  ],
+  "funding_links_liberapay": [
+    "devinschumacher"
+  ],
+  "funding_links_opencollective": [
+    "devinschumacher"
+  ],
+  "funding_links_custom": [
+    "https://serpapps.github.io/bongacams-downloader",
+    "https://devinschumacher.com/bongacams-downloader",
+    "https://serp.co/products/bongacams-downloader/",
+    "https://github.com/sponsors/devinschumacher"
+  ],
+  "keywords": [
+    "bongacams downloader"
+  ]
+}
